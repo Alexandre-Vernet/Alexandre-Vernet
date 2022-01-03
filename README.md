@@ -15,6 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3 align="center">Hi! &nbsp;👋</h3>
+<h4 align="center">I'm Itamar, A software developer</h4>
+
+<br/>
+
+<p align="center">
+
+<a href="https://www.itamarga.com">
+  <img alt="pitamer's website" height="32" src="https://img.icons8.com/fluent/96/000000/domain.png" />
+</a>
+<a href="https://pita.tech">
+  <img alt="pitamer's blog" height="32" src="https://img.icons8.com/fluent/96/000000/copybook.png" />
+</a>
+<a href="https://www.linkedin.com/in/alexandre-vernet-60b6831a3/">
+  <img alt="LinkedIn" height="34" src="https://img.icons8.com/color/50/000000/linkedin.png" />
+</a>
+<a href="https://twitter.com/itamar_galili">
+  <img alt="Twitter" height="32" src="https://image.flaticon.com/icons/svg/733/733579.svg" />
+</a>
+</p>
+
+
 ### &nbsp;⚗️&nbsp; Technologies I'm experienced with
 
 <p>
