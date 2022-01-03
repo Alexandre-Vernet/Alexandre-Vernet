@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/css-0397e0.svg?&style=for-the-badge&logo=css3&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="24"/>
-<img src="https://img.shields.io/badge/Typesctipt-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="24"/>
 
 <br />
   
