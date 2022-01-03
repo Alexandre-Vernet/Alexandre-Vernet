@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 </p>
 
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Vernet&theme=github_dark&layout=compact)
-![test](https://github-readme-stats.vercel.app/api?username={Alexandre-Vernet}&theme=blue-green)
+![test](https://github-readme-stats.vercel.app/api?username=Alexandre-Vernet&theme=blue-green)
