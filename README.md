@@ -62,4 +62,4 @@ Here are some ideas to get you started:
 <a href = "https://github.com/Alexandre-Vernet/Your_Repository_Name/graphs/contributors">
 <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
 </a>
-Made wit
+Made with [contributors-img](https://contrib.rocks).
