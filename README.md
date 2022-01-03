@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">Hi! &nbsp;👋</h3>
-<h4 align="center">I'm Alexandre Vernet, A software developer</h4>
+<h4 align="center">I'm Alexandre Vernet, A web developer</h4>
 <br/>
 
 <p align="center">
