@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 <p>
 
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="24"/>
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" height="24"/>
+  
+<img src="https://img.shields.io/badge/HTML-red.svg?&style=for-the-badge&logo=html5&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/css-0397e0.svg?&style=for-the-badge&logo=css3&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Typesctipt-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="24"/>
@@ -43,8 +44,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Express-388888.svg?&style=for-the-badge&logo=Express&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/SQL-aac252.svg?&style=for-the-badge&logo=none&logoColor=white" height="24"/>
-<img src="https://img.shields.io/badge/HTML-red.svg?&style=for-the-badge&logo=html5&logoColor=white" height="24"/>
-<img src="https://img.shields.io/badge/css-0397e0.svg?&style=for-the-badge&logo=css3&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/SASS-cf649a.svg?&style=for-the-badge&logo=sass&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/git-df5b3d.svg?&style=for-the-badge&logo=git&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="24"/>
