@@ -71,8 +71,8 @@ Here are some ideas to get you started:
 </p>
 
 ## Some stats about me
-![top-langage](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Vernet&theme=github_dark&layout=compact)
-![test](https://github-readme-stats.vercel.app/api?username=Alexandre-Vernet&theme=blue-green)
+![most-used-langage](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Vernet&theme=github_dark&layout=compact)
+![github-stats](https://github-readme-stats.vercel.app/api?username=Alexandre-Vernet&theme=blue-green)
 
 
 ## 😂 Here is a random joke that'll make you laugh!
