@@ -26,18 +26,22 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Typesctipt-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="24"/>
 
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="24"/>
+<br />
   
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="24"/>
+  
+  <br />
+
 <img src="https://img.shields.io/badge/MobX-FF9955.svg?&style=for-the-badge&logo=mobx&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/material%20UI-0081cb.svg?&style=for-the-badge&logo=material-ui&logoColor=white" height="25"/>
 
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="24"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="24"/>
-
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="24"/>
 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="24"/>
+
+  <br />
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/node.js-026e00.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="24"/>
@@ -49,6 +53,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="24"/>
   
+  
+  <br />
+
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="24"/>
