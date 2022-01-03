@@ -70,7 +70,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/git-df5b3d.svg?&style=for-the-badge&logo=git&logoColor=white" height="24"/>
 </p>
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Vernet&theme=github_dark&layout=compact)
+## Some stats about me
+![top-langage](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Vernet&theme=github_dark&layout=compact)
 ![test](https://github-readme-stats.vercel.app/api?username=Alexandre-Vernet&theme=blue-green)
 
 
