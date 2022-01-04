@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Express-388888.svg?&style=for-the-badge&logo=Express&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/node.js-026e00.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="24"/>
 <br />
   
 <!-- Library -->
@@ -66,7 +67,6 @@ Here are some ideas to get you started:
   
   
 
-<img src="https://img.shields.io/badge/node.js-026e00.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/git-df5b3d.svg?&style=for-the-badge&logo=git&logoColor=white" height="24"/>
 </p>
 
