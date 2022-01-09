@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 </p>
 
 ## Some stats about me
-![most-used-langage](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Vernet&theme=github_dark&layout=compact&langs_count=8&hide=css,scss)
+![most-used-langage](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Vernet&theme=github_dark&langs_count=8&hide=css,scss)
 ![github-stats](https://github-readme-stats.vercel.app/api?username=Alexandre-Vernet&theme=tokyonight&include_all_commits=true&show_icons=true)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Alexandre_Vernet)](https://github.com/anuraghazra/github-readme-stats)
 <br />
