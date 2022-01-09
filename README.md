@@ -66,15 +66,16 @@ Here are some ideas to get you started:
   
 <!-- Library -->
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="24"/>
-  
-  
 
+<!-- Control version -->
 <img src="https://img.shields.io/badge/git-df5b3d.svg?&style=for-the-badge&logo=git&logoColor=white" height="24"/>
 </p>
 
 ## Some stats about me
 ![most-used-langage](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Vernet&theme=github_dark&layout=compact)
 ![github-stats](https://github-readme-stats.vercel.app/api?username=Alexandre-Vernet&theme=tokyonight)
+[!wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@Alexandre_Vernet)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
 
 ## 😂 Here is a random joke that'll make you laugh!
