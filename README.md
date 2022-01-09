@@ -84,11 +84,5 @@ Here are some ideas to get you started:
 </a>
 <br />
 
-<!-- WakaTime -->
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=@Alexandre_Vernet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Alexandre_Vernet">
-</a>
-<br />
-
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
