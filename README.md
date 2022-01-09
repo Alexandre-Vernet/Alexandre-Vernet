@@ -72,22 +72,72 @@ Here are some ideas to get you started:
 </p>
 
 ## Some stats about me
-<div style="display: grid">
-<!-- Most used langages -->
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Vernet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Vernet&theme=github_dark&langs_count=8&hide=css,scss">
-</a>
+<div class="wrapper">
+  <!-- Most used langages -->
+  <div class="one">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Vernet">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Vernet&theme=github_dark&langs_count=8&hide=css,scss">
+    </a>
+</div>
 
 <!-- Github stats -->
-<a href="https://github-readme-stats.vercel.app/api?username=Alexandre-Vernet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexandre-Vernet&theme=tokyonight&include_all_commits=true&show_icons=true&hide=contribs,stars&border_color=2e4058">
-</a>
+  <div class="two">
+    <a href="https://github-readme-stats.vercel.app/api?username=Alexandre-Vernet">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexandre-     Vernet&theme=tokyonight&include_all_commits=true&show_icons=true&hide=contribs,stars&border_color=2e4058">
+    </a>
+  </div>
 
 <!-- WakaTime -->
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=@Alexandre_Vernet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Alexandre_Vernet">
-</a>
+  <div class="three">
+    <a href="https://github-readme-stats.vercel.app/api/wakatime?username=@Alexandre_Vernet">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Alexandre_Vernet">
+    </a>
+  </div>
 </div>
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+<div class="wrapper">
+  <div class="one">Un</div>
+  <div class="two">Deux</div>
+  <div class="three">Trois</div>
+  <div class="four">Quatre</div>
+  <div class="five">Cinq</div>
+  <div class="six">Six</div>
+</div>
+
+<style>
+  .wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+}
+.one {
+  grid-column: 1 / 3;
+  grid-row: 1;
+}
+.two {
+  grid-column: 2 / 4;
+  grid-row: 1 / 3;
+}
+.three {
+  grid-column: 1;
+  grid-row: 2 / 5;
+}
+.four {
+  grid-column: 3;
+  grid-row: 3;
+}
+.five {
+  grid-column: 2;
+  grid-row: 4;
+}
+.six {
+  grid-column: 3;
+  grid-row: 4;
+}
+
+  </style>
