@@ -75,10 +75,12 @@ Here are some ideas to get you started:
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Vernet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Vernet&theme=github_dark&langs_count=8&hide=css,scss">
 </a>
-
-![github-stats](https://github-readme-stats.vercel.app/api?username=Alexandre-Vernet&theme=tokyonight&include_all_commits=true&show_icons=true&hide=contribs,stars&border_color=2e4058)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Alexandre_Vernet)](https://github.com/anuraghazra/github-readme-stats)
-<br />
+<a href="https://github-readme-stats.vercel.app/api?username=Alexandre-Vernet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexandre-Vernet&theme=tokyonight&include_all_commits=true&show_icons=true&hide=contribs,stars&border_color=2e4058">
+</a>
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=@Alexandre_Vernet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Alexandre_Vernet">
+</a>
 
 
 ## 😂 Here is a random joke that'll make you laugh!
