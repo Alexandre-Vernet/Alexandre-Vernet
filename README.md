@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 ## Some stats about me
 ![most-used-langage](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Vernet&theme=github_dark&layout=compact)
 ![github-stats](https://github-readme-stats.vercel.app/api?username=Alexandre-Vernet&theme=tokyonight)
-[!wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@Alexandre_Vernet)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Alexandre_Vernet)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 
