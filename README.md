@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 </p>
 
 ## Some stats about me
-<div style="display: flex; justify-content: space-evenly">
+<div style="display: grid">
 <!-- Most used langages -->
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Vernet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Vernet&theme=github_dark&langs_count=8&hide=css,scss">
