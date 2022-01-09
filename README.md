@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/python-blue.svg?&style=for-the-badge&logo=python&logoColor=white" height="24"/>
 <br />
   
 <!-- Databases -->
@@ -57,6 +58,7 @@ Here are some ideas to get you started:
 
 <!-- Frameworks -->
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/React-11cafb.svg?&style=for-the-badge&logo=react&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Express-388888.svg?&style=for-the-badge&logo=Express&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/node.js-026e00.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="24"/>
