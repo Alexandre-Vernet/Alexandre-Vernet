@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## &nbsp;⚗️&nbsp; Technologies I'm experienced with
+## 🎓 Technologies I'm experienced with
 
 <p>
 
