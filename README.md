@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-<a href="https://alexandre-vernet.github.io/Portfolio/">
+<a href="https://alexandre-vernet.fr/">
   <img alt="pitamer's website" height="32" src="https://img.icons8.com/fluent/96/000000/domain.png" />
 </a>
-<a href="https://alexandre-vernet.github.io/Portfolio/">
+<a href="mailto:alexandre.vernet99@gmail.com">
   <img alt="pitamer's blog" height="32" src="https://img.icons8.com/fluent/96/000000/copybook.png" />
 </a>
 <a href="https://www.linkedin.com/in/alexandre-vernet-60b6831a3/">
